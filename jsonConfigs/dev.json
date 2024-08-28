@@ -1,0 +1,7 @@
+{
+    "USE_AUTH": false,
+    "Port": 3000,
+    "Environment": "Implementation",
+    "Tenant": "arionalmond",
+    "UserName": "Read_Write_PII"
+}
