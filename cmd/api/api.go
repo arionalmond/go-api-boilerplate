@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/arionalmond/go-api-boiler-plate-plate/config"
-	"github.com/arionalmond/go-api-boiler-plate-plate/pkg/datastore"
-	"github.com/arionalmond/go-api-boiler-plate-plate/pkg/router"
+	"github.com/arionalmond/go-api-boilerplate/config"
+	"github.com/arionalmond/go-api-boilerplate/pkg/datastore"
+	"github.com/arionalmond/go-api-boilerplate/pkg/router"
 )
 
 func main() {

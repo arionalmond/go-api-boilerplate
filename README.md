@@ -1,2 +1,2 @@
-# go-api-boiler-plate-plate-plate
+# go-api-boilerplate
 

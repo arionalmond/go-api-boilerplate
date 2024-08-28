@@ -8,7 +8,7 @@ import (
 
 	"github.com/go-chi/chi"
 
-	"github.com/arionalmond/go-api-boiler-plate-plate/pkg/datastore"
+	"github.com/arionalmond/go-api-boilerplate/pkg/datastore"
 )
 
 // GetEmployees ...

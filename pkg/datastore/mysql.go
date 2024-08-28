@@ -3,7 +3,7 @@ package datastore
 import (
 	"fmt"
 
-	"github.com/arionalmond/go-api-boiler-plate-plate/config"
+	"github.com/arionalmond/go-api-boilerplate/config"
 	// in context to connect to mysql datastore
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"

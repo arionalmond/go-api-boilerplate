@@ -1,8 +1,8 @@
 package router
 
 import (
-	"github.com/arionalmond/go-api-boiler-plate-plate/pkg/datastore"
-	"github.com/arionalmond/go-api-boiler-plate-plate/pkg/handler"
+	"github.com/arionalmond/go-api-boilerplate/pkg/datastore"
+	"github.com/arionalmond/go-api-boilerplate/pkg/handler"
 
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"

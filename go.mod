@@ -1,4 +1,4 @@
-module github.com/arionalmond/go-api-boiler-plate-plate
+module github.com/arionalmond/go-api-boilerplate
 
 go 1.22.0
 
